@@ -46,3 +46,6 @@ You should have the following view. Of course, based on your naming / Lakehouse
 
 ![image](https://github.com/claudiomirti/microsoft-fabric-data-science/assets/38947100/090d68ab-6f04-4063-9e86-1d632b16757f)
 
+# Lakehouse Explorer
+Now you should be able to explore the data on the left or use the **Data Wrangler** to get familiar. This feature is designed to onboard newer data scientists and to accelerate pro developers. 
+![image](https://github.com/claudiomirti/microsoft-fabric-data-science/assets/38947100/83ac1611-b045-4326-808d-769e66e9a596)
