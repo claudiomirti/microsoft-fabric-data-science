@@ -1,3 +1,5 @@
+The provided Notebooks serve as an interactive introduction to the Microsoft Data Science experience by randomly generated data. While they don't execute any machine learning models, they offer a hands-on opportunity to explore and familiarize yourself with the tool's data wrangling and visualization capabilities.
+
 ![image](https://github.com/claudiomirti/microsoft-fabric-data-science/assets/38947100/a0ca5230-c69f-446f-a59a-f50a313b0835)
 
 Microsoft Fabric is revolutionizing the way data science is done. With its comprehensive suite of tools, users can now complete end-to-end data science workflows quickly and easily. From data exploration and preparation to experimentation, modeling, and scoring, Microsoft Fabric has you covered. Plus, it allows you to serve predictive insights to BI reports, giving you the insights you need to make informed decisions. **With Microsoft Fabric, data science has never been easier**.
