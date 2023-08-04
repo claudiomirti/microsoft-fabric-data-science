@@ -55,3 +55,7 @@ Now you should be able to explore the data on the left or use the **Data Wrangle
 # Lakehouse Datasets
 By browsing to your Lakehouse you should be able now to see the dataset created from the Notebook. And from here you can create a report and visualize the data. 
 ![image](https://github.com/claudiomirti/microsoft-fabric-data-science/assets/38947100/f76b59b2-bae1-45b1-a193-28ef7b260f2a)
+
+# Report
+Below no the final result on how you can create report (in this example auto-created) and where you can change and adapt the right visuals and filters. 
+![image](https://github.com/claudiomirti/microsoft-fabric-data-science/assets/38947100/9bdd9ee5-03e5-4fa8-a350-f7466edc9460)
