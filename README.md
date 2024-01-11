@@ -59,3 +59,7 @@ By browsing to your Lakehouse you should be able now to see the dataset created 
 # Report
 Below no the final result on how you can create report (in this example auto-created) and where you can change and adapt the right visuals and filters. 
 ![image](https://github.com/claudiomirti/microsoft-fabric-data-science/assets/38947100/9bdd9ee5-03e5-4fa8-a350-f7466edc9460)
+
+# Fabric Copilot
+Below an overview, what's possible when you have access to Copilot in Microsoft Fabric.
+![image](https://github.com/claudiomirti/microsoft-fabric-data-science/assets/38947100/50640543-01f4-4558-8023-46781c7b690a)
