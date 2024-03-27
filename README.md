@@ -52,6 +52,11 @@ You should have the following view. Of course, based on your naming / Lakehouse
 Now you should be able to explore the data on the left or use the **Data Wrangler** to get familiar. This feature is designed to onboard newer data scientists and to accelerate pro developers. 
 ![image](https://github.com/claudiomirti/microsoft-fabric-data-science/assets/38947100/83ac1611-b045-4326-808d-769e66e9a596)
 
+# Semantic Model
+Before creating reports, create a "New Semantic Model" and choose the tables you want to use.
+![image](https://github.com/claudiomirti/microsoft-fabric-data-science/assets/38947100/f3255b01-aa71-4b9b-b31a-226d0ca78817)
+
+
 # Lakehouse Datasets
 By browsing to your Lakehouse you should be able now to see the dataset created from the Notebook. And from here you can create a report and visualize the data. 
 ![image](https://github.com/claudiomirti/microsoft-fabric-data-science/assets/38947100/f76b59b2-bae1-45b1-a193-28ef7b260f2a)
